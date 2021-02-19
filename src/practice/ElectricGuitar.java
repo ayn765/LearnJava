@@ -18,10 +18,12 @@ public class ElectricGuitar {
     }
 
     boolean getRockStarUseIt(){
+
         return rockStarUsesIt;
     }
 
     void setRockStarUsesIt(boolean yesOrNo){
+
         rockStarUsesIt = yesOrNo;
     }
 
