@@ -1,6 +1,6 @@
-package demo;
+package package2;
               //Class code block begin
-public class TestClass {
+public class PrimitiveDataTypes {
 
     int age = 25; //global variable
                   public static void main(String[] args) {

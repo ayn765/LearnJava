@@ -1,4 +1,4 @@
-package demo;
+package package2;
 
 public class MethodPractice {
 
